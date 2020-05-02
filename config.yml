@@ -1,0 +1,10 @@
+messages:
+  noPermission: "&cDésolé, vous n'avez pas la permisison de faire ça"
+  missingArgs: "&cIl manque des arguments dans votre commande"
+  tooMuchArguments: "&cVous avez mis trop d'arguments"
+  pluginEnabled: "HypeBC activé avec succès !"
+  pluginDisabled: "HypeBC désactivé avec succès !"
+  reloadedConfig: "&aConfiguration rechargée avec succès"
+permissions:
+  broadcastCommand: hypebc.use
+  reloadConfigCommand: hypebc.reload

@@ -1,0 +1,11 @@
+author: SyFizz_
+version: 0.0.1
+name: HypeBroadcast
+main: fr.syfizz.HypeBroadcast.Main
+commands:
+  broadcast:
+    description: Commande de broadcast
+    usage: /broadcast <Message à diffuser>
+  hypebc:
+    description: Commande générale du plugin
+    usage: /hypebc <reload>
